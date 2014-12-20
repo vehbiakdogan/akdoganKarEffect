@@ -33,7 +33,7 @@ Daha Sonra Eklentimizi Aşağıdaki Şekilde çalıştırıyoruz.<br/>
 <li> <b>minBoyut: </b> Minimum Kar Boyutunu Belirler.Default değeri 10 dur.</li>
 <li>  <b>maxBoyut: </b> Maximum kar tanesi boyutunu belirler. default değeri 20 dir.  </li>
 <li> <b> karHizi: </b> Kar tanelerinin ne kadar sıklıkta doğacağını belirler. Default değeri 500ms dir.</li>
-<li> <b>karTanesiRengi:</b> Kar tanelerinin rengini belirler. Default değeri #ffffff (beyaz) dır.
+<li> <b>karTanesiRengi:</b> Kar tanelerinin rengini belirler. Default değeri #ffffff (beyaz) dır.</li>
 </ul>
 
 <h2> <a href="http://vehbiakdogan.com/demolar/akdoganKarEffect" target="_blank">DEMO</a></h2>
