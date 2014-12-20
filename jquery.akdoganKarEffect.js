@@ -12,7 +12,7 @@
 	$.fn.akdoganKarEffect = function(ayarlar){
 	
 			var karTanesi 			= $('<div id="karTanesi" />')
-									  .css({'position': 'absolute', 'top': '-30px',"cursor":"pointer"})
+									  .css({'position': 'absolute', 'top': '-30px',"cursor":"pointer","z-index":"999999999"})
 									  .html('&#10052;'),
 									  
 				ekranH 	= $(document).height(),
